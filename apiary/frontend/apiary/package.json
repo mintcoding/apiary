@@ -21,7 +21,7 @@
     "datatables.net-responsive-bs": "^2.1.1",
     "express": "^4.17.3",
     "jquery": "^3.6.0",
-    "jquery-validation": "^1.19.3",
+    "jquery-validation": "^1.19.5",
     "jszip": "^3.9.1",
     "lodash": "^4.17.21",
     "moment": "^2.29.3",
